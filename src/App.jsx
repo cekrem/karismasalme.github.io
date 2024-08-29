@@ -6,17 +6,6 @@ const App = () => (
   <>
     <img src={logo} className="logo" alt="logo" />
     <h1>Karismasalme</h1>
-    <iframe
-      width="480"
-      height="270"
-      src="https://www.youtube.com/embed/0Mv9MSbKLN4?si=-Okm3OyzHVyA9j_r"
-      title="YouTube video player"
-      frameBorder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerPolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-    ></iframe>
-
     <div className="content">
       <p>
         Vi ønsker å ta med salmeboka på turné! Drømmen er å arrangere konserter
