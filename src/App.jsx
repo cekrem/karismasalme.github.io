@@ -26,9 +26,11 @@ const App = () => (
     <a href="https://www.youtube.com/channel/UCaSB7-rogKiJp3-sDocBe0w">
       <button>YouTube</button>
     </a>
-    <a href="mailto:Karismasalme@gmail.com">
-      <button>Booking/Kontakt</button>
-    </a>
+
+    <p>
+      Booking/kontakt:{" "}
+      <a href="mailto:karismasalme@gmail.com">karismasalme@gmail.com</a>
+    </p>
   </>
 );
 
