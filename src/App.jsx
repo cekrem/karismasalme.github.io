@@ -11,8 +11,7 @@ const App = () => (
         Vi ønsker å ta med salmeboka på turné! Drømmen er å arrangere konserter
         i kirkebygg rundt om i landet hvor vi lar Den Hellige Ånd få puste liv i
         vår rike salmearv, og hvor folk får anledning til å møte Jesus
-        personlig. Sannheten med stor S ønsker en relasjon med oss, og det er
-        det vi ønsker å gi en plattform for.
+        personlig.
       </p>
       <p>
         <b>Håper vi sees!</b>
