@@ -4,12 +4,12 @@ import logo from "./assets/dally-salme.png";
 import useWindowDimensions from "./useWindowDimensions";
 
 const App = () => {
-  const { width: windowWidth } = useWindowDimensions();
+  const { width: windowWidth, height } = useWindowDimensions();
   const width = Math.min(windowWidth, 720);
 
   return (
     <>
-      <img src={logo} className="logo" alt="logo" />
+      {height > 800 && <img src={logo} className="logo" alt="logo" />}
       <h1>Karismasalme</h1>
       <div className="content">
         <p>
