@@ -28,7 +28,7 @@ const App = () => {
       <a href="https://qr.vipps.no/box/f6c33f59-ae8c-4f3d-90d5-e8b16e1ced75/pay-in">
         <button>Gi en gave (Vipps)</button>
       </a>
-      <a href="https://www.youtube.com/channel/UCaSB7-rogKiJp3-sDocBe0w">
+      <a href="https://www.youtube.com/@Karismasalme?sub_confirmation=1">
         <button>YouTube</button>
       </a>
 
