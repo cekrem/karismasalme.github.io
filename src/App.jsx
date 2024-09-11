@@ -1,11 +1,11 @@
-import { YouTubeEmbed } from "react-social-media-embed";
-import "./App.css";
-import logo from "./assets/dally-salme.png";
-import useWindowDimensions from "./useWindowDimensions";
+import { YouTubeEmbed } from "react-social-media-embed"
+import "./App.css"
+import logo from "./assets/dally-salme.png"
+import useWindowDimensions from "./useWindowDimensions"
 
 const App = () => {
-  const { width: windowWidth, height } = useWindowDimensions();
-  const width = Math.min(windowWidth, 720);
+  const { width: windowWidth, height } = useWindowDimensions()
+  const width = Math.min(windowWidth, 720)
 
   return (
     <>
@@ -43,7 +43,7 @@ const App = () => {
         <a href="mailto:karismasalme@gmail.com">karismasalme@gmail.com</a>
       </p>
     </>
-  );
-};
+  )
+}
 
-export default App;
+export default App
