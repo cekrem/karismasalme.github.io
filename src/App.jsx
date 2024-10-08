@@ -19,6 +19,14 @@ const App = () => {
           Jesus personlig.
         </p>
         <p>
+          <b>Neste konsert:</b>
+          <br />
+          <a href="https://www.facebook.com/events/1040390277810784">
+            Søndag 13. oktober kl 14, Norderhov Kirke (Ringeriksdomen) — gratis
+            inngang
+          </a>
+        </p>
+        <p>
           <b>Håper vi sees!</b>
         </p>
       </div>
