@@ -18,7 +18,7 @@ const App = () => {
           puste liv i vår rike salmearv, og hvor folk får anledning til å møte
           Jesus personlig.
         </p>
-        <p>
+        <p hidden>
           <b>Neste konsert:</b>
           <br />
           <a href="https://www.facebook.com/events/1040390277810784">
